@@ -6,5 +6,6 @@ Commit Home Page - Página principal com a vitrine das categorias em destaque;
 Commit Contato - Pagina onde o cliente ou interessado possa tirar alguma duvida atraves do preenchimento do formulário;
 Commit Quem Somos - Contém a Visão e os Valores da empresa;
 Commit Carnes - Apresentação dos pratos que fazem parte dessa dieta;
-Commit Frango  - Apresentação dos pratos que fazem parte dessa dieta;
+Commit Frango - Apresentação dos pratos que fazem parte dessa dieta;
+Commit Massas - Apresentação dos pratos que fazem parte dessa dieta;
 Commit Veganos - Apresentação dos pratos que fazem parte dessa dieta.

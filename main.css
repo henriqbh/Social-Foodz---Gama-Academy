@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 16px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    background: #d2d2c1 url("Imagens/fundo.png");
+    display: flex;
+    flex-direction: column;
+}
+
+#principal{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#menu{
+   background-color: #c5c5b2; 
+   padding: 20px;
+   
+}
+
+a{
+    color: #3c544c;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+
+}
